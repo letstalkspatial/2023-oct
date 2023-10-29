@@ -29,8 +29,10 @@ https://www.youtube.com/watch?v=lUMjcau7JAs
 1. [STAC API by Aman Bagrecha](https://docs.google.com/presentation/d/1XTN2nraIpXJsO0ysyabdfttupAIaVQoIhlmV2JBEOUQ/edit?usp=sharing)
 2. [Planetary Computer by Santhosh M](https://docs.google.com/presentation/d/10X3kYThfRV4Xkph-s4_nBvNmD-FNEoNmpKenYaVmlrI/edit?usp=sharing)
 
-### Notebooks
-
+### Notebooks (need planatery computer access)
+1. [Mosaics](https://pccompute.westeurope.cloudapp.azure.com/compute/hub/user-redirect/lab/tree/PlanetaryComputerExamples/mosaic.ipynb)
+2. [Calculate NDVI](https://pccompute.westeurope.cloudapp.azure.com/compute/hub/user-redirect/lab/tree/PlanetaryComputerExamples/ndvi.ipynb)
+3. [Categorical zonal stats](https://pccompute.westeurope.cloudapp.azure.com/compute/hub/user-redirect/lab/tree/PlanetaryComputerExamples/santhosh/catogrical_zonal_stats.ipynb)
 
 
 ### Resources
